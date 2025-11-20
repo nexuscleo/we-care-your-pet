@@ -53,6 +53,8 @@ Este é um projeto puramente front-end (HTML/CSS). Para visualizá-lo, siga os p
 3.  **Abra o arquivo `index.html` no seu navegador:**
     Você pode simplesmente clicar duas vezes no arquivo `index.html` na sua pasta.
 
+    **Clique no link para conferir:** https://nexuscleo.github.io/we-care-your-pet/
+
 ---
 
 ## 🤝 Como Contribuir
@@ -72,7 +74,5 @@ Contribuições são sempre bem-vindas! Se você tiver sugestões para melhorar 
 **Cleomar**
 - **Email**: [nexuscleo@gmail.com](mailto:nexuscleo@gmail.com)
 - **LinkedIn**: [Visite meu Perfil](https://www.linkedin.com/in/nexuscleo)
-
-Clique no link para conferir: https://nexuscleo.github.io/we-care-your-pet/
 
 **Desenvolvido por Cleoamr da Silva, &copy;2025 NexusCleo.**
